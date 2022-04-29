@@ -46,7 +46,6 @@ Finally, we visualize the data.
 cases_t["new_positives"].plot()
 	This plot gives information about total number of Covid-19 cases across New York starting from March 1, 2020
 ```
-
 ## How to Run the Code
 
 1. Open a terminal window.
@@ -58,3 +57,4 @@ cases_t["new_positives"].plot()
 	python KESAVADO_RUSHABHR_KGATTANI_SPAWAR.py
 	```
 ---
+Youtube Link for Code Explanation: https://youtu.be/5mvZuKlFS1E
